@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinder.Api", "CarFinder\CarFinder.Api.csproj", "{A099911F-2E76-40EE-ACC8-59DC64831FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinder.Api.Tests", "CarFinder.Api.Tests\CarFinder.Api.Tests.csproj", "{00472013-646D-4A4C-995F-31F65D250A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A099911F-2E76-40EE-ACC8-59DC64831FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A099911F-2E76-40EE-ACC8-59DC64831FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A099911F-2E76-40EE-ACC8-59DC64831FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A099911F-2E76-40EE-ACC8-59DC64831FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00472013-646D-4A4C-995F-31F65D250A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00472013-646D-4A4C-995F-31F65D250A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00472013-646D-4A4C-995F-31F65D250A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00472013-646D-4A4C-995F-31F65D250A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9A91E2-E239-484A-891E-7D0B6D379B38}
+	EndGlobalSection
+EndGlobal
